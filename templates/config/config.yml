@@ -1,0 +1,8 @@
+name:  config
+description: |
+   配置管理
+version:  1.0.0
+category:  WEB
+maintainer:  liumiaocn
+license:  Apache 2
+projectURL: https://github.com/ liumiaocn/rancher-cattle-autocatalog

@@ -1,0 +1,8 @@
+name:  analysis
+description: |
+   业务行为分析
+version:  1.0.0
+category:  WEB
+maintainer:  liumiaocn
+license:  Apache 2
+projectURL: https://github.com/ liumiaocn/rancher-cattle-autocatalog
