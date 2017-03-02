@@ -1,6 +1,6 @@
-name:  analysis
+name:  行为分析
 description: |
-   业务行为分析
+   行为分析
 version:  1.0.0
 category:  WEB
 maintainer:  liumiaocn
