@@ -1,6 +1,6 @@
 name:  配置管理
 description: |
-   配置管理
+   为沙箱各工具提供系统参数配置管理，包括用户范围设置、资金额度设置、合规性规则设置等
 version:  1.0.0
 category:  WEB
 maintainer:  liumiaocn

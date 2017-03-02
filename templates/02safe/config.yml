@@ -1,6 +1,6 @@
 name:  安全验证
 description: |
-   安全验证
+   综合运用安全验证措施，确保被测系统安全防护框架和安全运维框架的有效性
 version:  1.0.0
 category:  WEB
 maintainer:  liumiaocn

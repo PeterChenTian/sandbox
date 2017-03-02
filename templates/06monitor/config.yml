@@ -1,6 +1,6 @@
 name:  监控预警
 description: |
-   监控预警
+   监控沙箱测试工具运行情况，根据配置管理参数判断并给予预警提示等
 version:  1.0.0
 category:  WEB
 maintainer:  liumiaocn
